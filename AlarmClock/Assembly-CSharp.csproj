@@ -60,6 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AlarmClock.cs" />
     <Compile Include="Assets\Scripts\DigitalClockSystem.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Abrar/Desktop/mahrukh/AlarmClock/AlarmClock/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

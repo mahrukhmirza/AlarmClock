@@ -14,13 +14,6 @@ public class DigitalClockSystem : MonoBehaviour
     DateTime dateFetcher;
     public Text hoursUI, minutesUI, secondsUI;
     public Text ampmUI;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void Update()
     {
         dateFetcher = DateTime.Now;
